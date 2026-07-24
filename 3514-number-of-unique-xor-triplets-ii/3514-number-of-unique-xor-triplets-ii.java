@@ -1,31 +1,33 @@
 class Solution {
+    private static final int MAX_XOR = 2048; // 2^11
+
     public int uniqueXorTriplets(int[] nums) {
+        boolean[] pair = new boolean[MAX_XOR];
+        boolean[] seen = new boolean[MAX_XOR];
+
         int n = nums.length;
 
-        if (n == 1) return 1;
-
-        HashSet<Integer> pairXor = new HashSet<>();
-
-        // All pair XORs (i < j)
+        // All distinct pair XORs
         for (int i = 0; i < n; i++) {
+            seen[nums[i]] = true; // (i, i, i) or repeated indices
             for (int j = i + 1; j < n; j++) {
-                pairXor.add(nums[i] ^ nums[j]);
+                pair[nums[i] ^ nums[j]] = true;
             }
         }
 
-        HashSet<Integer> ans = new HashSet<>();
-
-        // Triplets where all 3 indices are same
-        for (int x : nums)
-            ans.add(x);
-
-        // Triplets using a pair and one element
-        for (int px : pairXor) {
-            for (int x : nums) {
-                ans.add(px ^ x);
+        // (a ^ b) ^ c
+        for (int x = 0; x < MAX_XOR; x++) {
+            if (!pair[x]) continue;
+            for (int num : nums) {
+                seen[x ^ num] = true;
             }
         }
 
-        return ans.size();
+        int ans = 0;
+        for (boolean b : seen) {
+            if (b) ans++;
+        }
+
+        return ans;
     }
 }
