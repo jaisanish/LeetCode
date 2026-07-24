@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jaisanish/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/jaisanish/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Array
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaisanish/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jaisanish/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jaisanish/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/jaisanish/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -92,8 +94,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jaisanish/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/jaisanish/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jaisanish/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/jaisanish/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
