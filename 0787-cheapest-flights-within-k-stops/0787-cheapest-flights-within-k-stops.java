@@ -23,24 +23,18 @@ class Solution {
         // 3. BFS up to k + 1 edges (k intermediate stops)
         while (!queue.isEmpty() && stops <= k) {
             int size = queue.size();
-            // Temporary distance array prevents using updated values from the same level
-            int[] tempCost = Arrays.copyOf(minCost, n);
 
             for (int i = 0; i < size; i++) {
                 int[] cur = queue.poll();
-                int u = cur[0];
-                int currentCost = cur[1];
 
-                for (int[] neighbor : adj.get(u)) {
-                    int v = neighbor[0];
-                    int price = neighbor[1];
-                    if (currentCost + price < tempCost[v]) {
-                        tempCost[v] = currentCost + price;
-                        queue.offer(new int[]{v, tempCost[v]});
+                for (int[] next : adj.get(cur[0])) {
+                    if (cur[1] + next[1] < minCost[next[0]]) {
+                        minCost[next[0]] = cur[1] + next[1];
+                        queue.offer(new int[]{next[0], minCost[next[0]]});
                     }
                 }
             }
-            minCost = tempCost;
+
             stops++;
         }
 
