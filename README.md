@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jaisanish/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/jaisanish/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaisanish/LeetCode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/jaisanish/LeetCode/tree/master/0403-frog-jump) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jaisanish/LeetCode/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaisanish/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaisanish/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jaisanish/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jaisanish/LeetCode/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jaisanish/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
