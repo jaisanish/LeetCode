@@ -1,17 +1,18 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        while(true){
-            int prod=1;
-            int copy=n;
-            while(copy!=0){
-                prod*=copy%10;
-                copy/=10;
-            }
-
-            if(copy==0 && prod%t==0){
+        while (true) {
+            if (digitProduct(n) % t == 0)
                 return n;
-            }
             n++;
         }
+    }
+
+    private int digitProduct(int x) {
+        int prod = 1;
+        while (x > 0) {
+            prod *= x % 10;
+            x /= 10;
+        }
+        return prod;
     }
 }
