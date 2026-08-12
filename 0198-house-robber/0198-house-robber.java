@@ -1,28 +1,22 @@
 class Solution {
     public int rob(int[] nums) {
-        if (nums.length == 0) return 0;
+        int n = nums.length;
 
-        // Initialize two tracking sums
-        int prev2 = 0;
-        int prev = nums[0];
+        if (n == 0) return 0;
 
-        // Traverse through the array
-        for (int i = 1; i < nums.length; i++) {
-            // Include current by adding it to two steps back
-            int include = nums[i] + prev2;
+        int prev2 = 0;        // dp[i-2]
+        int prev1 = nums[0];  // dp[i-1]
 
-            // Exclude current by taking previous best
-            int exclude = prev;
+        for (int i = 2; i <= n; i++) {
+            int curr = Math.max(
+                prev1,
+                nums[i - 1] + prev2
+            );
 
-            // Choose max of include and exclude
-            int curr = Math.max(include, exclude);
-
-            // Update tracking variables
-            prev2 = prev;
-            prev = curr;
+            prev2 = prev1;
+            prev1 = curr;
         }
 
-        // Final result is stored in prev
-        return prev;
+        return prev1;
     }
 }
