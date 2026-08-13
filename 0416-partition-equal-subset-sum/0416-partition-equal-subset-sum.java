@@ -14,34 +14,32 @@ class Solution {
         int target = sum / 2;
         int n = nums.length;
 
-        boolean[][] dp = new boolean[n][target + 1];
-
-        // Target 0 is always possible
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = true;
-        }
+        boolean[] dp = new boolean[target + 1];
 
         // First element
         if (nums[0] <= target) {
-            dp[0][nums[0]] = true;
+            dp[nums[0]] = true;
         }
+        dp[0]=true;
 
         for (int i = 1; i < n; i++) {
-
+            boolean newDp[]=new boolean[target+1];
+            newDp[0]=true;
             for (int t = 1; t <= target; t++) {
 
-                boolean notTake = dp[i - 1][t];
+                boolean notTake = dp[t];
 
                 boolean take = false;
 
                 if (nums[i] <= t) {
-                    take = dp[i - 1][t - nums[i]];
+                    take = dp[t - nums[i]];
                 }
 
-                dp[i][t] = take || notTake;
+                newDp[t] = take || notTake;
             }
+            dp=newDp;
         }
 
-        return dp[n - 1][target];
+        return dp[target];
     }
 }
