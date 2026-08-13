@@ -26,6 +26,7 @@
 | [0198-house-robber](https://github.com/jaisanish/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaisanish/LeetCode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/jaisanish/LeetCode/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/jaisanish/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jaisanish/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaisanish/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/jaisanish/LeetCode/tree/master/0721-accounts-merge) |
@@ -115,6 +116,7 @@
 | [0198-house-robber](https://github.com/jaisanish/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaisanish/LeetCode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/jaisanish/LeetCode/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/jaisanish/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jaisanish/LeetCode/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/jaisanish/LeetCode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaisanish/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -293,4 +295,12 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaisanish/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/jaisanish/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/jaisanish/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
