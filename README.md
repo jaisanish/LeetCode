@@ -29,6 +29,7 @@
 | [0486-predict-the-winner](https://github.com/jaisanish/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaisanish/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/jaisanish/LeetCode/tree/master/0721-accounts-merge) |
+| [0741-cherry-pickup](https://github.com/jaisanish/LeetCode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/jaisanish/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jaisanish/LeetCode/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/jaisanish/LeetCode/tree/master/0877-stone-game) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/jaisanish/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jaisanish/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0741-cherry-pickup](https://github.com/jaisanish/LeetCode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/jaisanish/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jaisanish/LeetCode/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaisanish/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -112,6 +114,7 @@
 | [0213-house-robber-ii](https://github.com/jaisanish/LeetCode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/jaisanish/LeetCode/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/jaisanish/LeetCode/tree/master/0486-predict-the-winner) |
+| [0741-cherry-pickup](https://github.com/jaisanish/LeetCode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaisanish/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/jaisanish/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
