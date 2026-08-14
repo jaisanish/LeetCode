@@ -6,6 +6,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/jaisanish/LeetCode/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaisanish/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jaisanish/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaisanish/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaisanish/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaisanish/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -40,6 +41,7 @@
 | [1406-stone-game-iii](https://github.com/jaisanish/LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/jaisanish/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/jaisanish/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jaisanish/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2498-frog-jump-ii](https://github.com/jaisanish/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaisanish/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaisanish/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -306,4 +308,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jaisanish/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jaisanish/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/jaisanish/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
