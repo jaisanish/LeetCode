@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jaisanish/LeetCode/tree/master/0079-word-search) |
 | [0721-accounts-merge](https://github.com/jaisanish/LeetCode/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaisanish/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jaisanish/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/jaisanish/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jaisanish/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/jaisanish/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/jaisanish/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/jaisanish/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaisanish/LeetCode/tree/master/0213-house-robber-ii) |
@@ -71,6 +73,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/jaisanish/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jaisanish/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/jaisanish/LeetCode/tree/master/0079-word-search) |
 | [0741-cherry-pickup](https://github.com/jaisanish/LeetCode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/jaisanish/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jaisanish/LeetCode/tree/master/0827-making-a-large-island) |
@@ -86,6 +89,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jaisanish/LeetCode/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/jaisanish/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/jaisanish/LeetCode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/jaisanish/LeetCode/tree/master/0743-network-delay-time) |
@@ -340,4 +344,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaisanish/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jaisanish/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
