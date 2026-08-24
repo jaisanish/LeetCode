@@ -44,6 +44,7 @@
 | [1463-cherry-pickup-ii](https://github.com/jaisanish/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/jaisanish/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/jaisanish/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/jaisanish/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jaisanish/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2498-frog-jump-ii](https://github.com/jaisanish/LeetCode/tree/master/2498-frog-jump-ii) |
@@ -140,6 +141,7 @@
 | [1406-stone-game-iii](https://github.com/jaisanish/LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/jaisanish/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/jaisanish/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaisanish/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaisanish/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Graph Theory
@@ -195,6 +197,7 @@
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaisanish/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/jaisanish/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/jaisanish/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaisanish/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaisanish/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -269,6 +272,7 @@
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaisanish/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/jaisanish/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/jaisanish/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -277,6 +281,7 @@
 | [0877-stone-game](https://github.com/jaisanish/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaisanish/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/jaisanish/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -284,6 +289,7 @@
 | [0877-stone-game](https://github.com/jaisanish/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaisanish/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/jaisanish/LeetCode/tree/master/2029-stone-game-ix) |
 ## Bipartite Graph
 |  |
@@ -321,6 +327,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
