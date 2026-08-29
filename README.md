@@ -53,6 +53,7 @@
 | [2029-stone-game-ix](https://github.com/jaisanish/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jaisanish/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2498-frog-jump-ii](https://github.com/jaisanish/LeetCode/tree/master/2498-frog-jump-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaisanish/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaisanish/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaisanish/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaisanish/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -119,6 +120,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jaisanish/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jaisanish/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/jaisanish/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaisanish/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/jaisanish/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/jaisanish/LeetCode/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaisanish/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jaisanish/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaisanish/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jaisanish/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/jaisanish/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
