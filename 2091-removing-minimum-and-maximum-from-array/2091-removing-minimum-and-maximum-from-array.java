@@ -13,27 +13,11 @@ class Solution {
                 minIdx=i;
             }
         }
-        int ans=Integer.MAX_VALUE;
-
-        if(minIdx>maxIdx){
-            ans=Math.min(minIdx+1,ans);
-            ans=Math.min(n-maxIdx,ans);
-        }    
-        else{
-            ans=Math.min(maxIdx+1,ans);
-            ans=Math.min(n-minIdx,ans);
-        }
-        
-        int temp=0;
-        if(minIdx>maxIdx){
-            temp+=maxIdx+1;
-            temp+=n-minIdx;
-        } 
-        else {
-            temp+=minIdx+1;
-            temp+=n-maxIdx;
-        }
-
-        return Math.min(ans,temp);
+        int a=Math.min(minIdx,maxIdx);
+        int b=Math.max(minIdx,maxIdx);
+        int front=b+1;
+        int back=n-a;
+        int both=(a+1)+(n-b);
+        return Math.min(front,Math.min(back,both));
     }
 }
