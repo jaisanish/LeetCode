@@ -140,6 +140,7 @@
 | [0120-triangle](https://github.com/jaisanish/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/jaisanish/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaisanish/LeetCode/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/jaisanish/LeetCode/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/jaisanish/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/jaisanish/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jaisanish/LeetCode/tree/master/0486-predict-the-winner) |
@@ -220,6 +221,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/jaisanish/LeetCode/tree/master/0338-counting-bits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaisanish/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jaisanish/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jaisanish/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
