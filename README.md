@@ -34,6 +34,7 @@
 | [0120-triangle](https://github.com/jaisanish/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/jaisanish/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaisanish/LeetCode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/jaisanish/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0403-frog-jump](https://github.com/jaisanish/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/jaisanish/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jaisanish/LeetCode/tree/master/0486-predict-the-winner) |
@@ -342,6 +343,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jaisanish/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 ## Sliding Window
