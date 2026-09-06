@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jaisanish/LeetCode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/jaisanish/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0721-accounts-merge](https://github.com/jaisanish/LeetCode/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaisanish/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jaisanish/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -145,6 +146,7 @@
 | [0062-unique-paths](https://github.com/jaisanish/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jaisanish/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jaisanish/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/jaisanish/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/jaisanish/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/jaisanish/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaisanish/LeetCode/tree/master/0213-house-robber-ii) |
