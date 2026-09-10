@@ -121,6 +121,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jaisanish/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jaisanish/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/jaisanish/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jaisanish/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/jaisanish/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
@@ -341,6 +342,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaisanish/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jaisanish/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaisanish/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jaisanish/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Data Stream
 |  |
 | ------- |
