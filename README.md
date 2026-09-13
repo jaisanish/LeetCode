@@ -46,6 +46,7 @@
 | [0741-cherry-pickup](https://github.com/jaisanish/LeetCode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/jaisanish/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jaisanish/LeetCode/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/jaisanish/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/jaisanish/LeetCode/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaisanish/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
@@ -98,6 +99,7 @@
 | [0741-cherry-pickup](https://github.com/jaisanish/LeetCode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/jaisanish/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/jaisanish/LeetCode/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/jaisanish/LeetCode/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jaisanish/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/jaisanish/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/jaisanish/LeetCode/tree/master/1631-path-with-minimum-effort) |
