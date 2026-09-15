@@ -8,7 +8,7 @@ class Solution {
         int dp[][]=new int[n][n];
         for(int[] row:dp)Arrays.fill(row,-1);
 
-        isPalindrome=new boolean[n+1][n+1];
+        isPalindrome=new boolean[n][n];
         for(int L=1;L<=n;L++){
             for(int i=0;i+L<=n;i++){
                 int j=i+L-1;
