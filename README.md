@@ -171,6 +171,7 @@
 | [1406-stone-game-iii](https://github.com/jaisanish/LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/jaisanish/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/jaisanish/LeetCode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jaisanish/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jaisanish/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jaisanish/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -230,6 +231,7 @@
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaisanish/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/jaisanish/LeetCode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jaisanish/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/jaisanish/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaisanish/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jaisanish/LeetCode/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jaisanish/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaisanish/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jaisanish/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
@@ -381,6 +384,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jaisanish/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jaisanish/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/jaisanish/LeetCode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/jaisanish/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/jaisanish/LeetCode/tree/master/3904-smallest-stable-index-ii) |
