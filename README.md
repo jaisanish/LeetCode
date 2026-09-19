@@ -232,6 +232,7 @@
 | [0836-rectangle-overlap](https://github.com/jaisanish/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/jaisanish/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaisanish/LeetCode/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jaisanish/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/jaisanish/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/jaisanish/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jaisanish/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -448,4 +449,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/jaisanish/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jaisanish/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
