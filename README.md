@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/jaisanish/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/jaisanish/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/jaisanish/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/jaisanish/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/jaisanish/LeetCode/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/jaisanish/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/jaisanish/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -173,6 +174,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/jaisanish/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jaisanish/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/jaisanish/LeetCode/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/jaisanish/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/jaisanish/LeetCode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jaisanish/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/jaisanish/LeetCode/tree/master/0877-stone-game) |
@@ -321,6 +323,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/jaisanish/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaisanish/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/jaisanish/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jaisanish/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -468,6 +471,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaisanish/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/jaisanish/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/jaisanish/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jaisanish/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jaisanish/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -476,6 +480,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaisanish/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/jaisanish/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jaisanish/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jaisanish/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaisanish/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
