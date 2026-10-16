@@ -49,7 +49,6 @@ class BIT {
 }
 
 class Solution {
-
     public int sumCounts(int[] A) {
         int n = A.length;
         long res = 0, cur = 0;
